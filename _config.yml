@@ -2,6 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins: 
 - jekyll-remote-theme
 title: Yijin Wang
-description: This is the homepage of Yijin Wang's personal website!
+description: Behavior, Cognition and Neuroscience PhD Candidate
 language: en
 logo: /img/portfolio.jpg
