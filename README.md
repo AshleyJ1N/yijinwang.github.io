@@ -8,7 +8,6 @@ I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'
 # Professional Education
 
 ### CONTACT
-yw1695a@american.edu  
 yijinwang412@gmail.com  
 Computational Material Perception Laboratory   
 American University  
@@ -16,7 +15,7 @@ American University
 ### ADDITIONAL INFO
 - ORCID：https://orcid.org/0009-0000-0567-8521  
 - ResearchGate：https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf&_sg=pLhTgiQvvGwz_erfN_fLg0fol2TeFJBCAWjJrULRdW3B-AY476t4ZZxSKwisAt3RP3xQiyyPORx0y5h2CP4-1QTG&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6ImhvbWUiLCJwcmV2aW91c1BhZ2UiOiJob21lIiwicG9zaXRpb24iOiJnbG9iYWxIZWFkZXIifX0  
-- Linkedin：  
+- LinkedIn：  
 - Google Scholar：https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
 - NCBI：  
 
