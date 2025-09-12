@@ -10,7 +10,7 @@ What we are recently interested in is how human memorize different kinds of mate
 # Professional Education
 
 # CONTACT
-yw1695a@american.edu
+yw1695a@american.edu /n
 yijinwang412@gmail.com
 Computational Material Perception Laboratory 
 American University
