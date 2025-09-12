@@ -9,7 +9,7 @@ I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'
 
 ### CONTACT
 yijinwang412@gmail.com  
-Computational Material Perception Laboratory   
+[Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)   
 American University  
 
 ### ADDITIONAL INFO
