@@ -24,7 +24,7 @@ BSc, South China Normal University, Computer Science
 <br>
 <br>
 
-#### CONTACT
+<h4 style="margin-bottom:4px">CONTACT</h4>
 <small>Academic: yw1695a@american.edu  
 ORCID: https://orcid.org/0009-0000-0567-8521  
 ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
