@@ -1,6 +1,9 @@
 # Bio
 I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'm working in the lab of [Prof. Bei Xiao](https://sites.google.com/site/beixiao/home?authuser=0), and we are investigating how the human brain perceives materials in different dimensions, using a combination of machine learning and neuroscience methods. Recently, we have become interested in how humans memorize different kinds of materials, and we are still investigating this topic.  
 I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/). We are interested in investigating the representation of tools under unconscious conditions using various deep neural networks.   
+<br>
+<br>
+<br>
 
 # Publications
 1. **Wang, Y.***, Gao, J.*, Zhu, F., Liu, X., Wang, G., Zhang, Y., Deng, Z., & Chen, J. (2024). Internal representations of the canonical real-world distance of objects. Journal of vision, 24(2), 14. https://doi.org/10.1167/jov.24.2.14  
@@ -9,22 +12,29 @@ I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.
 DNN. (In Preparation)  
 4. Gao, J., **Wang, Y.**, Deng, Z., Li, H., Zhang, R., Zhang, Y., Zhang, X., Zhou, G., Chen, J., Learning by doing: effects of action learning on highly degraded visual stimuli. (Under review)  
 5. Zhang, Y., Gao, J., Deng, Z., Wang, T., Wang, C, Liu, X., **Wang, Y.**, Chen, J., Surround suppression when preparing hand actions provides evidence of sensory planning. (In Preparation)  
+<br>
+<br>
+<br>
 
 # Professional Education
 PhD candidate, American University, Neuroscience
 MSc, South China Normal University, Psychology
 BSc, South China Normal University, Computer Science  
+<br>
+<br>
+<br>
 
 #### CONTACT
-<font size="1">Academic: yw1695a@american.edu</font>  
-<font size="1">ORCID: https://orcid.org/0009-0000-0567-8521</font>  
-<font size="1">ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf</font>  
-<font size="1">LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/</font>  
-<font size="1">Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao</font>  
-<font size="1">NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/</font>  
+<font size="1">Academic: yw1695a@american.edu</font><br>  
+<font size="1">ORCID: https://orcid.org/0009-0000-0567-8521</font><br>  
+<font size="1">ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf</font><br>  
+<font size="1">LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/</font><br>  
+<font size="1">Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao</font><br>  
+<font size="1">NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/</font><br>  
 <br>
 <br>
 <br>
+
 #### Collaborators
 [Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)  
 [Action Percetion Learning Lab](http://juanchenpsy.scnu.edu.cn/)  
