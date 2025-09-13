@@ -18,18 +18,10 @@ American University
 
 ### CONTACT
 <p style="font-size:12px; margin-top:0;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="16" style="vertical-align:middle;"/> 
-<a href="https://orcid.org/0009-0000-0567-8521">ORCID</a><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/ResearchGate_icon_SVG.svg" width="16" style="vertical-align:middle;"/> 
-<a href="https://www.researchgate.net/profile/Yijin-Wang-16">ResearchGate</a><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" width="16" style="vertical-align:middle;"/> 
-<a href="https://www.linkedin.com/in/yijin-wang-013163323/">LinkedIn</a><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Google_Scholar_logo.svg" width="16" style="vertical-align:middle;"/> 
-<a href="https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao">Google Scholar</a><br>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/US-NLM-NCBI-Logo.svg" width="16" style="vertical-align:middle;"/> 
-<a href="https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/">NCBI</a>
+<img src="https://img.icons8.com/?size=100&id=53435&format=png&color=000000" alt="Email" width="16" style="vertical-align:middle;"/> yw1695a@american.edu  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="16" style="vertical-align:middle;"/> https://orcid.org/0009-0000-0567-8521  
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="16" style="vertical-align:middle;"/>  https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
+<img src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="LinkedIn" width="16" style="vertical-align:middle;"/>  https://www.linkedin.com/in/yijin-wang-013163323/  
+<img src="https://img.icons8.com/?size=100&id=okYCvWotC0uX&format=png&color=000000" alt="Google Scholar" width="16" style="vertical-align:middle;"/>  https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
+<img src="https://img.icons8.com/?size=100&id=qVF4TgDjaQm6&format=png&color=000000" alt="NCBI" width="16" style="vertical-align:middle;"/>  https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/
 </p>
