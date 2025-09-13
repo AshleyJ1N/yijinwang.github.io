@@ -17,9 +17,9 @@ DNN. (In Preparation)
 <br>
 
 # Professional Education
-PhD candidate, American University, Neuroscience
-MSc, South China Normal University, Psychology
-BSc, South China Normal University, Computer Science  
+PhD candidate, American University, Neuroscience  
+MSc, South China Normal University, Psychology  
+BSc, South China Normal University, Computer Science    
 <br>
 <br>
 <br>
@@ -35,7 +35,7 @@ NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/  </s
 <br>
 <br>
 
-#### Collaborators
+<h4 style="margin-bottom:4px">Collaborators</h4>
 <small>[Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)<br>
 [Action Percetion Learning Lab](http://juanchenpsy.scnu.edu.cn/)<br>
-[Vatanak Lavan](https://lavanv1107.github.io/academic-portfolio/)<br></small>
+[Vatanak Lavan](https://lavanv1107.github.io/academic-portfolio/)</small>
