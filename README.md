@@ -1,6 +1,7 @@
 # Bio
 I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'm working in the lab of [Prof. Bei Xiao](https://sites.google.com/site/beixiao/home?authuser=0), and we are investigating how the human brain perceives materials in different dimensions, using a combination of machine learning and neuroscience methods. Recently, we have become interested in how humans memorize different kinds of materials.  
 I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/). We are interested in investigating the representation of tools under unconscious conditions using various deep neural networks.   
+Please click [here] to download my CV.
 <br>
 <br>
 <br>
@@ -26,12 +27,12 @@ BSc, South China Normal University, Computer Science
 
 <h4 style="margin-bottom:4px">CONTACT</h4>
 <small>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="16" style="vertical-align:middle;"/>Academic: yw1695a@american.edu  
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="16" style="vertical-align:middle;"/>ORCID: https://orcid.org/0009-0000-0567-8521  
-ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
-LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/  
-Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
-NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/  </small>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="16" style="vertical-align:middle;"/> Academic: yw1695a@american.edu  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="16" style="vertical-align:middle;"/> ORCID: https://orcid.org/0009-0000-0567-8521  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/ResearchGate_icon_SVG.svg" alt="ResearchGate" width="16" style="vertical-align:middle;"/> ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="16" style="vertical-align:middle;"/> LinkedIn: ttps://www.linkedin.com/in/yijin-wang-013163323/  
+<img src="https://upload.wikimedia.org/wikipedia/en/5/53/Google_Scholar_logo.svg" alt="Google Scholar" width="16" style="vertical-align:middle;"/> Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/US-NLM-NCBI-Logo.svg" alt="NCBI" width="16" style="vertical-align:middle;"/> NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/  </small>
 <br>
 <br>
 <br>
