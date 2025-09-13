@@ -15,15 +15,15 @@ PhD candidate, American University, Neuroscience
 MSc, South China Normal University, Psychology
 BSc, South China Normal University, Computer Science  
 
-### CONTACT
-<font size="3">Academic: yw1695a@american.edu</font>  
-<font size="3">ORCID: https://orcid.org/0009-0000-0567-8521</font>  
-<font size="3">ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf</font>  
-<font size="3">LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/</font>  
-<font size="3">Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao</font>  
-<font size="3">NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/</font>  
+#### CONTACT
+<font size="1">Academic: yw1695a@american.edu</font>  
+<font size="1">ORCID: https://orcid.org/0009-0000-0567-8521</font>  
+<font size="1">ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf</font>  
+<font size="1">LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/</font>  
+<font size="1">Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao</font>  
+<font size="1">NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/</font>  
 
-### LINKS
+#### Collaborators
 [Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)  
 [Action Percetion Learning Lab](http://juanchenpsy.scnu.edu.cn/)  
 [Vatanak Lavan](https://lavanv1107.github.io/academic-portfolio/)
