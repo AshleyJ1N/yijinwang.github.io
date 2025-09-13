@@ -2,10 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins: 
 - jekyll-remote-theme
 title: Yijin Wang
-description: 
-Behavior, Cognition and Neuroscience  
-PhD Candidate  
-American University  
+description: Behavior, Cognition and Neuroscience,  PhD Candidate,  American University  
 language: en
 logo: /img/portfolio.jpg
 show_downloads: true
