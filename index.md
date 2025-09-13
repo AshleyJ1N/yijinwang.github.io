@@ -1,6 +1,6 @@
 # Bio
 I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'm working in the lab of [Prof. Bei Xiao](https://sites.google.com/site/beixiao/home?authuser=0), and we are investigating how the human brain perceives materials in different dimensions, using a combination of machine learning and neuroscience methods. Recently, we have become interested in how humans memorize different kinds of materials.  
-I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/). We are interested in investigating the representation of tools under unconscious conditions using various deep neural networks.   
+I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/). We are interested in investigating the representation of tools under unconscious conditions using deep neural networks.   
 Please click [here](CV_WYJ.pdf) to download my CV.  
 <br>
 <br>
