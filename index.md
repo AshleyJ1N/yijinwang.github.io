@@ -8,10 +8,6 @@ Please click [here](CV_WYJ.pdf) to download my CV.
 
 # Publications
 1.**Wang, Y.\***, Gao, J.\*, Zhu, F., Liu, X., Wang, G., Zhang, Y., Deng, Z., & Chen, J. (2024). Internal representations of the canonical real-world distance of objects. Journal of vision, 24(2), 14. https://doi.org/10.1167/jov.24.2.14
-        
-        
-        
-        
 2.Deng, Z., Li, Z., Gao, J., Zhu, F., **Wang, Y.**, Long, J., Zhang P., Meng, M., Chen, J., Different representation of toolness and the elongated shape of tools revealed by continuous flash suppression and backward masking. (In Preparation)  
 3.**Wang, Y.**, Deng, Z., Zhang, R., Chen, J., Tool representation under unconscious condition – evidence from 
 DNN. (In Preparation)  
