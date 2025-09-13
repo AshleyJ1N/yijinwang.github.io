@@ -1,8 +1,6 @@
 # Bio
-I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'm working in the lab of [Prof. Bei Xiao](https://sites.google.com/site/beixiao/home?authuser=0), and we are investigating how the human brain perceives materials in different dimensions, using a combination of machine learning and neuroscience methods. What we are recently interested in is how humans memorize different kinds of materials, and we are still investigating this.  
-I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/). We are interested in investigating the representation of tools under unconscious conditions using various deep neural networks.  
-
-# Honors & Awards
+I am Yijin Wang (王仪瑾), a first-year PhD student at American University. I'm working in the lab of [Prof. Bei Xiao](https://sites.google.com/site/beixiao/home?authuser=0), and we are investigating how the human brain perceives materials in different dimensions, using a combination of machine learning and neuroscience methods. Recently, we have become interested in how humans memorize different kinds of materials, and we are still investigating this topic.  
+I previously worked in the lab of [Prof. Juan Chen](http://juanchenpsy.scnu.edu.cn/). We are interested in investigating the representation of tools under unconscious conditions using various deep neural networks.   
 
 # Publications
 1. **Wang, Y.***, Gao, J.*, Zhu, F., Liu, X., Wang, G., Zhang, Y., Deng, Z., & Chen, J. (2024). Internal representations of the canonical real-world distance of objects. Journal of vision, 24(2), 14. https://doi.org/10.1167/jov.24.2.14  
@@ -13,19 +11,17 @@ DNN. (In Preparation)
 5. Zhang, Y., Gao, J., Deng, Z., Wang, T., Wang, C, Liu, X., **Wang, Y.**, Chen, J., Surround suppression when preparing hand actions provides evidence of sensory planning. (In Preparation)  
 
 # Professional Education
-PhD candidate in Behavior, Cognition and Neuroscience, American University  
-MSc in Applied Psychology, School of Psychology, South China Normal University  
-BSc in Computer Science, School of Computer, South China Normal University  
+PhD candidate, American University, Neuroscience
+MSc, South China Normal University, Psychology
+BSc, South China Normal University, Computer Science  
 
 ### CONTACT
-yijinwang412@gmail.com  
-Computational Material Perception Laboratory
-American University  
-[ORCID](https://orcid.org/0009-0000-0567-8521)  
-[ResearchGate](https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf)  
-[LinkedIn](https://www.linkedin.com/in/yijin-wang-013163323/)  
-[Google Scholar](https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao)  
-[NCBI](https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/)  
+Academic: yw1695a@american.edu  
+ORCID: https://orcid.org/0009-0000-0567-8521  
+ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
+LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/  
+Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
+NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/  
 
 ### LINKS
 [Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)  
