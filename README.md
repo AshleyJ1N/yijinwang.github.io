@@ -16,12 +16,12 @@ MSc, South China Normal University, Psychology
 BSc, South China Normal University, Computer Science  
 
 ### CONTACT
-Academic: yw1695a@american.edu  
-ORCID: https://orcid.org/0009-0000-0567-8521  
-ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
-LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/  
-Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
-NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/  
+<font size="3">Academic: yw1695a@american.edu</font>  
+<font size="3">ORCID: https://orcid.org/0009-0000-0567-8521</font>  
+<font size="3">ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf</font>  
+<font size="3">LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/</font>  
+<font size="3">Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao</font>  
+<font size="3">NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/</font>  
 
 ### LINKS
 [Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)  
