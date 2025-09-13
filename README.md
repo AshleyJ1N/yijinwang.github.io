@@ -22,7 +22,9 @@ BSc, South China Normal University, Computer Science
 <font size="1">LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/</font>  
 <font size="1">Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao</font>  
 <font size="1">NCBI: https://www.ncbi.nlm.nih.gov/myncbi/yijin.wang.3/bibliography/public/</font>  
-
+<br>
+<br>
+<br>
 #### Collaborators
 [Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)  
 [Action Percetion Learning Lab](http://juanchenpsy.scnu.edu.cn/)  
