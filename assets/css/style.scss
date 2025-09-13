@@ -3,9 +3,11 @@
 
 @import "jekyll-theme-minimal";
 a {
-  color: pink; 
+  color: rgb(255,100,127);
+  text-decoration: none;    
 }
 
 a:hover {
-  color: hotpink; 
+  color: rgb(255,54,89);   
+  font-weight: bold;       
 }
