@@ -36,6 +36,6 @@ BSc, South China Normal University, Computer Science
 <br>
 
 #### Collaborators
-[Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)  
-[Action Percetion Learning Lab](http://juanchenpsy.scnu.edu.cn/)  
-[Vatanak Lavan](https://lavanv1107.github.io/academic-portfolio/)
+<font size="1">[Computational Material Perception Laboratory](https://sites.google.com/site/beixiao/home?authuser=0)</font><br>
+<font size="1">[Action Percetion Learning Lab](http://juanchenpsy.scnu.edu.cn/)</font><br>
+<font size="1">[Vatanak Lavan](https://lavanv1107.github.io/academic-portfolio/)</font><br>
