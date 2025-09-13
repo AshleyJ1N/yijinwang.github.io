@@ -25,8 +25,9 @@ BSc, South China Normal University, Computer Science
 <br>
 
 <h4 style="margin-bottom:4px">CONTACT</h4>
-<small>Academic: yw1695a@american.edu  
-ORCID: https://orcid.org/0009-0000-0567-8521  
+<small>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="16" style="vertical-align:middle;"/>Academic: yw1695a@american.edu  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="16" style="vertical-align:middle;"/>ORCID: https://orcid.org/0009-0000-0567-8521  
 ResearchGate: https://www.researchgate.net/profile/Yijin-Wang-16?ev=hdr_xprf  
 LinkedInh: ttps://www.linkedin.com/in/yijin-wang-013163323/  
 Google Scholar: https://scholar.google.com/citations?user=4IjkddYAAAAJ&hl=en&oi=ao  
