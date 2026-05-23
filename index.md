@@ -10,7 +10,7 @@ Please click [here](CV_WYJ.pdf) to download my CV.
 1.**Wang, Y.\***, Gao, J.\*, Zhu, F., Liu, X., Wang, G., Zhang, Y., Deng, Z., & Chen, J. (2024). Internal representations of the canonical real-world distance of objects. Journal of vision, 24(2), 14. https://doi.org/10.1167/jov.24.2.14     
 <br>
 2. Gao J, **Wang Y**, Deng Z, Li H, Zhang R, Zhang Y, Zhang X, Zhou G, Chen J. Learning by doing: Effects of visually-guided action learning on highly degraded visual stimuli. Cognition. 2026 Jun;271:106450. doi: 10.1016/j.cognition.2026.106450. Epub 2026 Feb 2. PMID: 41633035.
-<br>
+<br><br>
 3.**Wang, Y.**, Deng, Z., Zhang, R., Chen, J., Tool representation under unconscious condition – evidence from 
 DNN. (In Prep)   
 <br>
