@@ -8,14 +8,14 @@ Please click [here](CV_WYJ.pdf) to download my CV.
 
 # Publications
 1.**Wang, Y.\***, Gao, J.\*, Zhu, F., Liu, X., Wang, G., Zhang, Y., Deng, Z., & Chen, J. (2024). Internal representations of the canonical real-world distance of objects. Journal of vision, 24(2), 14. https://doi.org/10.1167/jov.24.2.14
-<br>
-2. Gao J, **Wang Y**, Deng Z, Li H, Zhang R, Zhang Y, Zhang X, Zhou G, Chen J. Learning by doing: Effects of visually-guided action learning on highly degraded visual stimuli. Cognition. 2026 Jun;271:106450. doi: 10.1016/j.cognition.2026.106450. Epub 2026 Feb 2. PMID: 41633035.
-<br>
+
+2.Gao J, **Wang Y**, Deng Z, Li H, Zhang R, Zhang Y, Zhang X, Zhou G, Chen J. Learning by doing: Effects of visually-guided action learning on highly degraded visual stimuli. Cognition. 2026 Jun;271:106450. doi: 10.1016/j.cognition.2026.106450. Epub 2026 Feb 2. PMID: 41633035.
+
 3.**Wang, Y.**, Deng, Z., Zhang, R., Chen, J., Tool representation under unconscious condition – evidence from 
-DNN. (In Prep)   
-<br>
+DNN. (In Prep)
+
 4.Deng, Z., **Wang, Y.**, Li, Z., Gao, J., Zhu, F., Long, J., Zhang P., Meng, M., Chen, J., Different representation of toolness and the elongated shape of tools revealed by continuous flash suppression and backward masking. (In Prep)  
-<br>
+
 5.Zhang, Y., Gao, J., Deng, Z., Wang, T., Wang, C, Liu, X., **Wang, Y.**, Chen, J., Surround suppression when preparing hand actions provides evidence of sensory planning. (In Prep)  
 <br>
 <br>
